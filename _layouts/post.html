@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+
+
+  <div class="container">
+     <h3 class="post-title">{{ page.title }}</h3>
+  <p class="post-date">
+    <time>{{ page.date | date: "%Y-%m-%d" }}</time>
+  </p>
+    {{ content }}
+  </div>
+
+<script src="{{ site.baseurl }}/scripts/rrssb.min.js"></script>
