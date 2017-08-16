@@ -2,3 +2,6 @@ This is as Jekyll theme built to make single page websites, articles, or literar
 
 
 Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
+
+
+Powered by <a href="https://jekyllrb.com/">Jekyll</a>
