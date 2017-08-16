@@ -205,6 +205,14 @@ pre > code {
   padding: 0 0rem;
 }
 
+
+@media (max-width: 635px) {
+.container {
+  max-width: 625px;
+  margin: 0 auto;
+  padding: 0 0.5rem;
+ }
+}
 .sharing {
   text-align: center;
 }
