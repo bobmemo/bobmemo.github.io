@@ -20,6 +20,13 @@
   <article>
    <div class="container">
     <h1><a href="{{site.baseurl}}">{{ site.tag_text }}</a></h1>
+    <div class="feed-link motion-element">
+               <a href="/atom.xml" rel="alternate">
+                 <i class="fa fa-rss"></i>
+                 RSS
+               </a>
+    </div>
+
     {{ content }}
     </div>
   </article>
