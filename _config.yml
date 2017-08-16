@@ -5,6 +5,7 @@ description: A responsive template for publishing single-page websites, articles
 url: "http://bobmemo.github.io"
 baseurl: ""
 
+
 paginate: 3
 
 font-awesome-include: true # make this false if you don't need font-awesome
