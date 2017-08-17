@@ -1,10 +1,10 @@
 # Site settings
 title: 而已。
 tag_text: 而已。
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
+description: 个人呓语
 url: "http://bobmemo.github.io"
 baseurl: ""
-
+author: "火兽"
 
 paginate: 3
 
