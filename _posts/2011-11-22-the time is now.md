@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "time is now"
+title: "the time is now"
 date: 2011-11-22 23:53 +0800
 author: "火兽"
 ---
