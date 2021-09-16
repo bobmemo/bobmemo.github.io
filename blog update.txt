@@ -1,0 +1,13 @@
+blog
+
+
+cd /users/bobmemo/blog
+git add -u  or git add .
+git commit -m “new”
+git push
+
+
+
+383010504694
+at t account number
+
