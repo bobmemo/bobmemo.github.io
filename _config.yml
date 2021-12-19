@@ -2,7 +2,7 @@
 title: 而已。
 tag_text: 而已。
 description: 个人呓语
-url: "http://huoshou.me"
+url: "https://huoshou.me"
 baseurl: ""
 author: "火兽"
 
@@ -20,4 +20,3 @@ plugins:
 
 gems:
   - jekyll-feed
-  
